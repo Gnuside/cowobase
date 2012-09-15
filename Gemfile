@@ -30,6 +30,9 @@ gem 'haml-rails', :group => :development
 # User management
 gem "devise"
 
+# Wiki
+gem 'irwi'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
